@@ -3,7 +3,7 @@
 #
 
 # Name of your site (displayed in the header)
-name: Summer programs
+name: Summer & Ruby
 
 # Short bio or description (displayed in the header)
 description: A record of my journey from nil to junior_dev.present?
@@ -18,12 +18,12 @@ avatar: https://avatars2.githubusercontent.com/u/18502435?v=3&s=460
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
+  email: supasuma@gmail.com
   facebook:
   flickr:
   github: barryclark/jekyll-now
   instagram:
-  linkedin:
+  linkedin: www.linkedin.com/in/summerbrines
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter: jekyllrb
